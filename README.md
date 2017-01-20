@@ -1,6 +1,6 @@
 # Supported tags and respective Dockerfile links
 
-* `8.7`, `latest` [Dockerfile](https://github.com/paolodenti/jessie-apache-proxy/blob/master/Dockerfile)
+* `8.7`, `latest`
 
 # Description
 
